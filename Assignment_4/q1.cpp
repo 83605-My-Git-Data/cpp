@@ -1,10 +1,6 @@
 // Q1. Stack is a Last-In-First-Out data structure. Write a Stack class. It implements stack using Dynamically allocated array. Stack size should be passed in parameterized constructor. If size is not given, allocate stack of size 5.
 // Provide member functions like push(), pop(), peek(), isEmpty(), isFull(), and print().
 
-// optional assignment
-
-// Q1. Write a Matrix class. Allocate memory dynamically in parameterized constructor. Also write parameter-less constructor. Write accept() and print() functions.
-// Also provide add(), subtract(), multiply() and transpose() function.
 
 
 #include<iostream>

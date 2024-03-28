@@ -8,7 +8,7 @@
 // setHour()
 // setMinute()
 // setSeconds()
-// Allocate the memory for the the object dynamically and test the functunalities using time ptr.
+// Allocate the memory for the the object dynamically and test the functionalities using time ptr.
 
 
 #include<iostream>
